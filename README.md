@@ -2,6 +2,15 @@
 
 Welcome to the Kirby Game! This is a simple, fun game where you control Kirby to move, jump, and inhale enemies and shooting stars. 
 
+## Images
+
+<table>
+  <tr>
+    <td><img src="./Images/1.png" alt="Image 1"></td>
+    <td><img src="./Images/2.png" alt="Image 2"></td>
+  </tr>
+</table>
+
 ## Controls
 
 - **Z**: Inhale enemies and release to shoot as star
@@ -12,6 +21,8 @@ Welcome to the Kirby Game! This is a simple, fun game where you control Kirby to
 ## Levels
 
 There are currently two levels available in the game.
+
+You can create new levels using [Tiled | Flexible Level Editor](https://www.mapeditor.org/) and use components from `./public/kirby-like.png`
 
 ## Development
 

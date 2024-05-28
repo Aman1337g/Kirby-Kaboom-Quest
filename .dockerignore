@@ -5,3 +5,5 @@ npm-debug.log
 .gitignore
 .dockerignore
 README.md
+Images
+LICENSE
